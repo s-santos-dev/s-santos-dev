@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👨‍💻 Simão Santos
 
-<!--
-**s-santos-dev/s-santos-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focado em Inteligência Artificial e construção de APIs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Estudante de Inteligência Artificial com foco em desenvolvimento backend e integração de modelos de IA em sistemas práticos.
+Experiência com construção de APIs e aplicações utilizando modelos de machine learning.
+
+---
+
+## 🚀 Stack Principal
+
+* Python
+* FastAPI
+* PostgreSQL
+* Docker
+* Linux
+
+---
+
+## 📊 Projetos em destaque
+
+* API de classificação de texto com IA
+* Sistemas de automação com processamento de dados
+
+---
+
+## 🧩 Práticas de Desenvolvimento
+
+* Organização de código em camadas
+* Escrita de código limpo e reutilizável
+* Estruturação de repositórios profissionais
+
+---
+
+## 📫 Contato
+- Email: sramel.dev@gmail.com  
+- LinkedIn: [Simão Ramel](https://www.linkedin.com/in/sim%C3%A3o-santos-dev/)  
+- GitHub: [s-santos-dev](https://github.com/s-santos-dev)  
