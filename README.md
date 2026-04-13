@@ -29,14 +29,6 @@ Atuação na construção de APIs, automação de processos e aplicações com m
 
 ---
 
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-santos-dev&show_icons=true)
-
-## 🔥 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-santos-dev&layout=compact)
-
----
-
 ## 📊 Projetos em destaque
 - API de classificação de texto com IA utilizando FastAPI
 - Sistemas de automação e processamento de dados  
