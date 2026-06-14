@@ -1,7 +1,5 @@
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/b9e265c0-a6b7-43f4-a993-841446b44158" width="600" alt="Pac-Man Gameplay" />
-</div>
+<img width="1920" height="720" alt="pac man github" src="https://github.com/user-attachments/assets/555494ae-3c64-443e-8375-50e1be6d2e4d" />
 
 
 # 👨‍💻 Simão Santos
