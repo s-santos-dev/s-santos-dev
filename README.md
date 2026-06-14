@@ -1,3 +1,6 @@
+<img width="474" height="480" alt="giphy" src="https://github.com/user-attachments/assets/42a29c3c-6bd5-486d-9fe8-b733f4fd840a" />
+
+
 # 👨‍💻 Simão Santos
 
 Backend Developer focado em Inteligência Artificial e construção de APIs.
