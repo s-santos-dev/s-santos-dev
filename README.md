@@ -37,6 +37,7 @@ Atuação na construção de APIs, automação de processos e aplicações com m
 ---
 
 ## 📊 Projetos em destaque
+- Contribuidor do projeto PIPA inteligente, desenvolvido durante a Maratona do Piauí para o Mundo 2026.
 - API de classificação de texto com IA utilizando FastAPI
 - Sistemas de automação e processamento de dados  
 
