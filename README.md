@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f575951a-0f20-4f28-ab58-3eeff2a4d9b7" width="40%" alt="GIF de apresentação" />
+  <img src="https://github.com/user-attachments/assets/b9e265c0-a6b7-43f4-a993-841446b44158" width="600" alt="Pac-Man Gameplay" />
 </div>
 
 
