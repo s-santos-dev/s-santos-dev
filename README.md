@@ -141,24 +141,6 @@ Artificial Intelligence
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=s-santos-dev&show_icons=true&hide_border=true&theme=github_dark"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-santos-dev&layout=compact&hide_border=true&theme=github_dark"
-    alt="Linguagens mais utilizadas"
-  />
-</p>
-
-
----
-
 ## 🤝 Contato
 
 Aberto a conexões, colaboração em projetos, hackathons e oportunidades relacionadas a **Backend e Inteligência Artificial**.
